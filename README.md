@@ -1,8 +1,8 @@
 <h1>Todos with TypeScript</h1>
 
-<h3>This is a small practice project where i have built a small todo app in react using typescript.</h3>
+<h3>This is a small practice project where I have built a small todo app in react using typescript.</h3>
 
-<p>To run this project locally on your browser, follow these steps</p>
+<p>To run this project locally on your browser, follow these steps:</p>
 
 1. VS Code required. Install/Launch Vs code.
 2. Clone this repo in you vs code.
